@@ -1,0 +1,2 @@
+rootProject.name = "Final_Project_Covid_Patient_Finder"
+include ':app'
