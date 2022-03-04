@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="25dp"
+
+    >
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name:Rahman Rifat"
+        android:textSize="20sp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/nametextviewid_sample_layoutid"
+
+        />
+
+
+    <TextView
+        android:id="@+id/nidtextviewid_sample_layoutid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Nid:80703020498"
+        android:textAppearance="@style/Base.CardView"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:id="@+id/mobile_sample_layoutid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Mobile:01641000160"
+        android:textAppearance="@style/Base.CardView"
+        android:textSize="20sp"
+
+        />
+    <TextView
+        android:id="@+id/birthdateid_sample_layoutid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Birth Date:07-11-21"
+        android:textAppearance="@style/Base.CardView"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vaccinated:yes"
+        android:textSize="20sp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/vaccinated_ststustextviewid_sample_layoutid"
+
+        />
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Corona Status:Negative"
+        android:textSize="20sp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/corona_ststustextviewid_sample_layoutid"
+
+        />
+    <TextView
+        android:textAppearance="@style/Base.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Health status:good"
+        android:textSize="20sp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/health_ststustextviewid_sample_layoutid"
+
+        />
+
+
+
+</LinearLayout>

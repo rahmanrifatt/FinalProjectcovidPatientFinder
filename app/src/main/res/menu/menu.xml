@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/logout_menu"
+        android:title="Log out"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/all_user_list_menu"
+        android:title="All user list"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/vaccinatedppl_menu"
+        android:title="Vaccinated people list"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/nonvaccinatedppl_menu"
+        android:title="Non-vaccinated people list"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/coronanegative_menu"
+        android:title="Corona negative people list"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/coronaPositive_menu"
+        android:title="Corona positive people list"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/health_status_good_menu"
+        android:title="Good health people list"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/health_status_modarate_menu"
+        android:title="Moderate health people list"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/health_status_week_menu"
+        android:title="Weak health people list"
+        app:showAsAction="never"
+
+        />
+
+</menu>
